@@ -1,0 +1,22 @@
+<quiz>
+    <question>
+        <text>Quanto é 2 + 2?</text>
+        <options>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+        </options>
+        <correct>1</correct> <!-- Índice da resposta correta (base 0) -->
+    </question>
+    <question>
+        <text>Qual é a raiz quadrada de 16?</text>
+        <options>
+            <option>2</option>
+            <option>4</option>
+            <option>6</option>
+            <option>8</option>
+        </options>
+        <correct>1</correct>
+    </question>
+</quiz>
