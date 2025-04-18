@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<quiz>
+  <question>
+    <text>Verdadeiro ou Falso: O islã teve influências do cristianismo e do judaísmo.</text>
+    <options>
+      <option>Verdadeiro</option>
+      <option>Falso</option>
+    </options>
+    <correct>0</correct>
+  </question>
+  <question>
+    <text>Maomé nasceu em qual cidade e em qual península, respectivamente?</text>
+    <options>
+      <option>Arábia Feliz, na Península Arábica</option>
+      <option>Meca, na Península Ibérica</option>
+      <option>Medina, na Península Arábica</option>
+      <option>Meca, Na Península Arábica</option>
+    </options>
+    <correct>3</correct>
+  </question>
+  <question>
+    <text>Como foi chamada a fuga de Maomé para Medina?</text>
+    <options>
+      <option>Meca</option>
+      <option>Expansão Islâmica</option>
+      <option>Hégina</option>
+      <option>Califados</option>
+    </options>
+    <correct>2</correct>
+  </question>
+  <question>
+    <text>Como foi chamada a fuga de Maomé para Medina?</text>
+    <options>
+      <option>Meca</option>
+      <option>Expansão Islâmica</option>
+      <option>Hégira</option>
+      <option>Califados</option>
+    </options>
+    <correct>2</correct>
+  </question>
+</quiz>
